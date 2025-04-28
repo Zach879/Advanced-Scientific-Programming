@@ -1,0 +1,2 @@
+This project extends the provided DeriveAssn3 script to parse climate→raptor CSVs, implement exponential smoothing, moving averages, and 
+ delta computations via partials, classes, and closures, and output an enriched derive-suffix CSV by modifying only the main assignment file.
