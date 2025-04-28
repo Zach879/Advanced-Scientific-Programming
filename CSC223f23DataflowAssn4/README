@@ -1,0 +1,2 @@
+This project composes a pull-based generator pipeline in pure Python—closures for uniform/normal/exponential data producers, 
+ sentinel-aware streaming and statistical-analysis generators, and a CSV-sink stage—by modifying only the main assignment script.
