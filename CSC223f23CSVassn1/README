@@ -1,1 +1,2 @@
-This project serves as a toolkit for producing, summarizing, validating, and plotting a suite of random data distributions and converting seamlessly between ARFF and CSV file types.
+This project extends the provided data‐generation script to add normal, exponential and log‐scaled distributions, hooks in ARFF/CSV 
+ conversion via the existing library, and automates statistical summaries and histogram plots—by modifying only the main assignment file.
