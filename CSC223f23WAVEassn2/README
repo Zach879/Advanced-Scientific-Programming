@@ -1,1 +1,2 @@
-This project makes use of scripts and data for reading waveform parameters, generating discrete PCM samples for multiple waveforms, outputting CSV & stats, and automating histogram/line-plot exports.
+This project adapts the supplied waveform generator to parse parameter CSVs, implement seven discrete PCM sample functions (triangle, sine, cosine, square, pulse, 
+ rising/falling saw), output CSV and stats, and drive automated plots through the existing shell/Python pipeline—by updating only the main assignment script.
