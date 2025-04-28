@@ -1,0 +1,1 @@
+Scripts and data for reading waveform parameters, generating discrete PCM samples for multiple waveforms, outputting CSV & stats, and automating histogram/line-plot exports.
